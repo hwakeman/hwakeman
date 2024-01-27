@@ -1,7 +1,7 @@
 Hi 👋 My name is Harley Wakeman
 ===============================
 
-Aspiring Web Developer
+Aspiring Software Engineer
 ----------------------
 
 * 🌍  I'm based in Mexico, NY
