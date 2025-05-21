@@ -1,11 +1,11 @@
 Hi 👋 My name is Harley Wakeman
 ===============================
 
-Aspiring Software Engineer
+Software Engineer
 ----------------------
 
 * 🌍  I'm based in Mexico, NY
-* ✉️  You can contact me at [hwakema2@oswego.edu](mailto:hwakema2@oswego.edu)
+* ✉️  You can contact me at [wakemanharley123@gmail.com](mailto:wakemanharley123@gmail.com)
 
 ### Skills
 
